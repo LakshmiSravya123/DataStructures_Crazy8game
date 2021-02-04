@@ -57,6 +57,9 @@ follows: ♠ > ♡ > ♢ > ♣.
 # Language 
 Python 
 
+# Results
+result_debug.txt
+
 # Data structures
 - linked list 
 - Circular linked list
